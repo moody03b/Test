@@ -1,0 +1,44 @@
+C:\Users\ASUS\Desktop\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\bin\Debug\net9.0\UnitTestingDemo.core.deps.json
+C:\Users\ASUS\Desktop\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\bin\Debug\net9.0\UnitTestingDemo.core.dll
+C:\Users\ASUS\Desktop\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\bin\Debug\net9.0\UnitTestingDemo.core.pdb
+C:\Users\ASUS\Desktop\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.dll
+C:\Users\ASUS\Desktop\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\refint\UnitTestingDemo.core.dll
+C:\Users\ASUS\Desktop\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.pdb
+C:\Users\ASUS\Desktop\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\ref\UnitTestingDemo.core.dll
+D:\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\bin\Debug\net9.0\UnitTestingDemo.core.deps.json
+D:\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\bin\Debug\net9.0\UnitTestingDemo.core.dll
+D:\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\bin\Debug\net9.0\UnitTestingDemo.core.pdb
+D:\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.AssemblyInfoInputs.cache
+D:\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.AssemblyInfo.cs
+D:\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.csproj.CoreCompileInputs.cache
+D:\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.dll
+D:\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\refint\UnitTestingDemo.core.dll
+D:\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.pdb
+D:\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\ref\UnitTestingDemo.core.dll
+C:\Users\HP\Desktop\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\bin\Debug\net9.0\UnitTestingDemo.core.deps.json
+C:\Users\HP\Desktop\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\bin\Debug\net9.0\UnitTestingDemo.core.dll
+C:\Users\HP\Desktop\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\bin\Debug\net9.0\UnitTestingDemo.core.pdb
+C:\Users\HP\Desktop\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.AssemblyInfo.cs
+C:\Users\HP\Desktop\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.dll
+C:\Users\HP\Desktop\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\refint\UnitTestingDemo.core.dll
+C:\Users\HP\Desktop\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.pdb
+C:\Users\HP\Desktop\energy\energy\هندسة فصل تاني\New folder (2)\UnitTestingDemo.core\obj\Debug\net9.0\ref\UnitTestingDemo.core.dll
+C:\Users\HP\Desktop\Test Project\UnitTestingDemo.core\bin\Debug\net9.0\UnitTestingDemo.core.deps.json
+C:\Users\HP\Desktop\Test Project\UnitTestingDemo.core\bin\Debug\net9.0\UnitTestingDemo.core.dll
+C:\Users\HP\Desktop\Test Project\UnitTestingDemo.core\bin\Debug\net9.0\UnitTestingDemo.core.pdb
+C:\Users\HP\Desktop\Test Project\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Test Project\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Test Project\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.AssemblyInfo.cs
+C:\Users\HP\Desktop\Test Project\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Test Project\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.dll
+C:\Users\HP\Desktop\Test Project\UnitTestingDemo.core\obj\Debug\net9.0\refint\UnitTestingDemo.core.dll
+C:\Users\HP\Desktop\Test Project\UnitTestingDemo.core\obj\Debug\net9.0\UnitTestingDemo.core.pdb
+C:\Users\HP\Desktop\Test Project\UnitTestingDemo.core\obj\Debug\net9.0\ref\UnitTestingDemo.core.dll
